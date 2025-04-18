@@ -22,7 +22,7 @@
 ### Step 5: Reset CMOS
 - **Why**: A corrupted BIOS/UEFI or incorrect system settings might prevent the computer from starting. Resetting the CMOS can restore the default BIOS settings and help resolve the issue.
 - **How to Reset CMOS**:
-  - **Option 2: Removing the CMOS Battery**:
+  - **Best Option: Removing the CMOS Battery**:
     1. Turn off the computer and unplug it from the power source.
     2. Open the case and remove the **CMOS battery** (a coin-cell battery on the motherboard).
     3. Wait for 5-10 minutes to allow the BIOS settings to reset.
